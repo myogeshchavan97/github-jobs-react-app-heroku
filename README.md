@@ -5,7 +5,7 @@
 2. yarn start
 ```
 
-and access the application at `http://localhost:3000/`
+and access the application at `http://localhost:5000/`
     
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
