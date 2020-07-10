@@ -1,8 +1,9 @@
 ## To run the project execute following commands in sequence
 
 ```js
-1. yarn build
-2. yarn start
+1. yarn install
+2. yarn build
+3. yarn start
 ```
 
 and access the application at `http://localhost:5000/`
